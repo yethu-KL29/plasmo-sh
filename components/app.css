@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+}
+.nav-right{
+    display: flex;
+}
+.home{
+   display: flex;
+   flex-direction: column;
+    background-color: antiquewhite;
+}
+.home-top{
+    display: flex;
+}
+.home-bottom{
+    display: flex;
+    justify-content: center;
+}
